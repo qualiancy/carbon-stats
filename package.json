@@ -2,7 +2,7 @@
   "author": "Jake Luer <jake@qualiancy.com> (htttp://qualiancy.com)",
   "name": "carbon-stats",
   "description": "Stats middleware for Carbon proxy.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/qualiancy/carbon-stats.git"
