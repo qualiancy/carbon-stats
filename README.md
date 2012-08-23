@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/qualiancy/carbon-stats.png)](http://travis-ci.org/qualiancy/carbon-stats)
 # Carbon Stats
 
 > Stats collection middleware for Carbon proxy/balancer.
